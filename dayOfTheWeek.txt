@@ -2,4 +2,5 @@ Tuesday Tuesday
 Friday
 Thursday
 YEAR 2024
-Monday 
+Monday
+Wednesday 

@@ -1,3 +1,4 @@
 calculator
 YEAR 2024
-file file simple_timer 
+file file simple_timer
+file simple_timer pomidoro_timer google opera excel word telegram acrobat_reader solitaire HS cmd blocknote 
