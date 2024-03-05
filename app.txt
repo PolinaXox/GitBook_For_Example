@@ -5,3 +5,5 @@ file simple_timer pomidoro_timer google opera excel word telegram acrobat_reader
 
 file(3) simple_timer pomidoro_timer chrome(6) opera excel(8) word acrobat reale_book_reader
 i_j solitaire HS blocknote
+
+file
