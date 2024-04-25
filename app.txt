@@ -7,3 +7,7 @@ file(3) simple_timer pomidoro_timer chrome(6) opera excel(8) word acrobat reale_
 i_j solitaire HS blocknote
 
 file
+
+file() free_timer pomidoro_timer google_chrome(8) opera excel(5)
+solitaire cmd blocknote
+
